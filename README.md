@@ -32,3 +32,9 @@ Requisitos Previos
 
 Node.js instalado (versión 16 o superior).
 MongoDB configurado y en funcionamiento (se puede usar MongoDB Atlas para la base de datos en la nube)
+
+Colaboradores 
+Jesus Sanchez Sosme
+Miguel Rosado
+Fernando Sanchez 
+Josue uicab 
